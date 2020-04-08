@@ -1,6 +1,6 @@
 # Your personal details
-### First name: Erika
-### Last name: Birtha
+First Name: Erika
+Last Name: Birtha
 ## Which is true?
 - false
 - false
